@@ -75,6 +75,7 @@ function AllDone(){
     countTodos();
 }
 
+
 //remove done task from list
 function removeItem(element){
     $(element).parent().remove();
