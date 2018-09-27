@@ -1,6 +1,7 @@
 html, body, .container {
     height: 100%;
 }
+
 body{
     background-color:#EEEEEE;
     background-image: url(../img/bg1.jpg);
